@@ -10,6 +10,7 @@
 // allow the user to enter thier guess
 let num = prompt('Guess a number between 1 and 10');
 // check to see if the number is a winner
+// im a winner
 if (num == 5) {
     // if it is, they got it right
      alert('Your guessed the right number!');
